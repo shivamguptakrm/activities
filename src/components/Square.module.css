@@ -1,0 +1,398 @@
+.table {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.square {
+  height: 100px;
+  width: 100px;
+
+  border-radius: 13px;
+}
+
+.squarer {
+  height: 100px;
+  width: 100px;
+  border-radius: 13px;
+  background-image: url("/src/images/pinkBg.png");
+}
+.squarey {
+  height: 100px;
+  width: 100px;
+  border-radius: 13px;
+  background-image: url("/src/images/yellowBg.png");
+}
+.squareg {
+  height: 100px;
+  width: 100px;
+  border-radius: 13px;
+  background-image: url("/src/images/greenBg.png");
+}
+.squareb {
+  height: 100px;
+  width: 100px;
+  border-radius: 13px;
+  background-image: url("/src/images/blueBg.png");
+}
+
+.square1 {
+  height: 46px;
+  width: 46px;
+  border-radius: 9px;
+  background-color: white;
+}
+.square1r {
+  height: 46px;
+  width: 46px;
+  border-radius: 9px;
+  background-image: url("/src/images/pinkBg.png");
+}
+.square1y {
+  height: 46px;
+  width: 46px;
+  border-radius: 9px;
+  background-image: url("/src/images/yellowBg.png");
+}
+.square1g {
+  height: 46px;
+  width: 46px;
+  border-radius: 9px;
+  background-image: url("/src/images/greenBg.png");
+}
+.square1b {
+  height: 46px;
+  width: 46px;
+  border-radius: 9px;
+  background-image: url("/src/images/blueBg.png");
+}
+
+.square2 {
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.square2r {
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  background-image: url("/src/images/pinkBg.png");
+}
+.square2y {
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  background-image: url("/src/images/yellowBg.png");
+}
+.square2g {
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  background-image: url("/src/images/greenBg.png");
+}
+.square2b {
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  background-image: url("/src/images/blueBg.png");
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+@media only screen and (max-width: 1200px) {
+  .square {
+    height: 80px;
+    width: 80px;
+
+    border-radius: 10px;
+  }
+
+  .squarer {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .squarey {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .squareg {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .squareb {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square1 {
+    height: 35px;
+    width: 35px;
+    border-radius: 8px;
+    background-color: white;
+  }
+  .square1r {
+    height: 35px;
+    width: 35px;
+    border-radius: 8px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square1y {
+    height: 35px;
+    width: 35px;
+    border-radius: 8px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square1g {
+    height: 35px;
+    width: 35px;
+    border-radius: 8px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square1b {
+    height: 35px;
+    width: 35px;
+    border-radius: 8px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square2 {
+    height: 15px;
+    width: 15px;
+    border-radius: 3px;
+    background-color: white;
+  }
+
+  .square2r {
+    height: 15px;
+    width: 15px;
+    border-radius: 3px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square2y {
+    height: 15px;
+    width: 15px;
+    border-radius: 3px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square2g {
+    height: 15px;
+    width: 15px;
+    border-radius: 3px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square2b {
+    height: 15px;
+    width: 15px;
+    border-radius: 3px;
+    background-image: url("/src/images/blueBg.png");
+  }
+  .img {
+    height: 100px;
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .square {
+    height: 70px;
+    width: 70px;
+
+    border-radius: 9px;
+  }
+
+  .squarer {
+    height: 70px;
+    width: 70px;
+    border-radius: 9px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .squarey {
+    height: 70px;
+    width: 70px;
+    border-radius: 9px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .squareg {
+    height: 70px;
+    width: 70px;
+    border-radius: 9px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .squareb {
+    height: 70px;
+    width: 70px;
+    border-radius: 9px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 7px;
+    background-color: white;
+  }
+  .square1r {
+    height: 30px;
+    width: 30px;
+    border-radius: 7px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square1y {
+    height: 30px;
+    width: 30px;
+    border-radius: 7px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square1g {
+    height: 30px;
+    width: 30px;
+    border-radius: 7px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square1b {
+    height: 30px;
+    width: 30px;
+    border-radius: 7px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square2 {
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;
+    background-color: white;
+  }
+
+  .square2r {
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square2y {
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square2g {
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square2b {
+    height: 12px;
+    width: 12px;
+    border-radius: 3px;
+    background-image: url("/src/images/blueBg.png");
+  }
+  .img {
+    height: 100px;
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .square {
+    height: 400px;
+    width: 40px;
+
+    border-radius: 9px;
+  }
+
+  .squarer {
+    height: 40px;
+    width: 40px;
+    border-radius: 9px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .squarey {
+    height: 40px;
+    width: 40px;
+    border-radius: 9px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .squareg {
+    height: 40px;
+    width: 40px;
+    border-radius: 9px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .squareb {
+    height: 40px;
+    width: 40px;
+    border-radius: 9px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square1 {
+    height: 16px;
+    width: 16px;
+    border-radius: 3px;
+    background-color: white;
+  }
+  .square1r {
+    height: 16px;
+    width: 16px;
+    border-radius: 3px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square1y {
+    height: 16px;
+    width: 16px;
+    border-radius: 3px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square1g {
+    height: 16px;
+    width: 16px;
+    border-radius: 3px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square1b {
+    height: 16px;
+    width: 16px;
+    border-radius: 3px;
+    background-image: url("/src/images/blueBg.png");
+  }
+
+  .square2 {
+    height: 7px;
+    width: 7px;
+    border-radius: 2px;
+    background-color: white;
+  }
+
+  .square2r {
+    height: 7px;
+    width: 7px;
+    border-radius: 2px;
+    background-image: url("/src/images/pinkBg.png");
+  }
+  .square2y {
+    height: 7px;
+    width: 7px;
+    border-radius: 2px;
+    background-image: url("/src/images/yellowBg.png");
+  }
+  .square2g {
+    height: 7px;
+    width: 7px;
+    border-radius: 2px;
+    background-image: url("/src/images/greenBg.png");
+  }
+  .square2b {
+    height: 7px;
+    width: 7px;
+    border-radius: 2px;
+    background-image: url("/src/images/blueBg.png");
+  }
+}
